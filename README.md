@@ -1,3 +1,5 @@
+** Tên môn học:** OT1205 - Vi điều khiển (Microcontrollers)
+
 **Tên đề tài:** Hướng dẫn sử dụng Blynk IOT điều khiển 2 relay và giám sát nhiệt độ - độ ẩm từ xa qua điện thoại
 
 **Thành viên:**
